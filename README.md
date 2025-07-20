@@ -28,11 +28,11 @@ Passionate AI student at Kafr El Sheikh University's Faculty of Artificial Intel
 - 📂 Open-source contributor (GitHub repositories featuring EDA/ML projects)  
 - 🔭 Continuously prototyping AI applications for practical use cases  
 
-![](https://github-readme-stats.vercel.app/api?username=NufalXBaalash&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=NufalXBaalash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://nirzak-streak-stats.vercel.app/?user=NufalXBaalash&theme=dark&hide_border=false)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=NufalXBaalash&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
