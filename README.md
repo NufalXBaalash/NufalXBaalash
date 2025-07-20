@@ -32,7 +32,7 @@ Passionate AI student at Kafr El Sheikh University's Faculty of Artificial Intel
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NufalXBaalash&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://nirzak-streak-stats.vercel.app/?user=NufalXBaalash&theme=dark&hide_border=false)<br/>
 
 ---
 
