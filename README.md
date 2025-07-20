@@ -35,10 +35,12 @@ Jupyter • Google Colab • Git • Power BI • Tableau • MySQL • Firebase
 
 ## 📫 How to Reach Me
 
-📧 Email: ahmedbaalash@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/ahmedbaalash](https://www.linkedin.com/in/ahmedbaalash)  
+📧 Email: Ahmedbaalash227@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/ahmedbaalash](https://www.linkedin.com/in/ahmed-baalash)  
 📊 Kaggle: [kaggle.com/ahmedbaalash](https://www.kaggle.com/ahmedbaalash)
 
 ---
 
 *"Turning Data into Insight — One Model at a Time."*
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
