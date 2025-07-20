@@ -1,40 +1,46 @@
-# 👋 Hi, I'm Ahmed Baalash
+👋 Hello! I'm Ahmed Khaled Ahmed Baalash
 
-🎓 2nd-year Artificial Intelligence student at King Saud University  
-📊 Aspiring Data Analyst | Passionate about Machine Learning, Data Visualization, and AI
+## 🧠 About Me
+A passionate student at Kafr El Sheikh University's Faculty of Artificial Intelligence, focused on unlocking the potential of data and intelligent systems. I'm deeply interested in Machine Learning, Deep Learning, and how AI can be used to solve real-world problems.
 
----
-
-## 💻 Skills
-- **Languages:** Python, SQL, Bash
-- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Power BI, Tableau
-- **Databases:** MySQL, Firebase
-- **Other:** Git, Jupyter, Streamlit
+Skilled in Python and data-related technologies, I'm constantly exploring new tools and building projects that combine technical depth with practical impact. I also value collaboration, leadership, and effective communication — key ingredients for success in any team.
 
 ---
 
-## 🚀 Projects
-
-Here are a few projects I've worked on:
-
-- 🔬 [Breast Cancer Predictor](https://github.com/YourUsername/Breast_Cancer_Predictor) – ML model to predict cancer using scikit-learn  
-- 📊 [Weather Data Analysis](https://github.com/YourUsername/Weather_EDA) – EDA and prediction using time series data  
-- 🤖 [Netflix Recommendation System](https://github.com/YourUsername/Netflix_Recommendation_System) – Collaborative filtering-based recommendation engine
-
-> Check out more in the **Pinned Repositories** below ⬇️
+## 🌍 Where I'm From
+📍 Based in Egypt  
+🎓 Studying at the Faculty of Artificial Intelligence, Kafr El Sheikh University  
+💻 Currently exploring opportunities in Data Science, ML, and AI  
+🌱 Learning: Machine Learning, Deep Learning, NLP, Computer Vision  
+✨ Interests: Business, Technology, Reading, Fitness  
 
 ---
 
-## 📈 GitHub Stats
+## 🛠 Technologies & Tools
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedBaalash&show_icons=true&theme=default)
+**Languages & Libraries:**  
+Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • TensorFlow • PyTorch • Hugging Face  
 
----
-
-## 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/ahmedbaalash](https://linkedin.com/in/ahmedbaalash)
-- Email: your.email@example.com
+**Tools & Platforms:**  
+Jupyter • Google Colab • Git • Power BI • Tableau • MySQL • Firebase
 
 ---
 
-*“Striving to turn data into decisions and knowledge into action.”*
+## 🏆 Achievements & Highlights
+
+- 📊 Built multiple ML projects including classification, recommendation, and analysis systems  
+- 🧪 Participating in Kaggle competitions  
+- 🎯 Continually learning and building real-world AI applications  
+- 📝 Published EDA & ML projects on GitHub
+
+---
+
+## 📫 How to Reach Me
+
+📧 Email: ahmedbaalash@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/ahmedbaalash](https://www.linkedin.com/in/ahmedbaalash)  
+📊 Kaggle: [kaggle.com/ahmedbaalash](https://www.kaggle.com/ahmedbaalash)
+
+---
+
+*"Turning Data into Insight — One Model at a Time."*
