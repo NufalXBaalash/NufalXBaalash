@@ -40,6 +40,7 @@ Passionate AI student at Kafr El Sheikh University's Faculty of Artificial Intel
 📧 **Email**: [Ahmedbaalash227@gmail.com](mailto:Ahmedbaalash227@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/ahmed-baalash](https://www.linkedin.com/in/ahmed-baalash)  
 📊 **Kaggle**: [kaggle.com/ahmedbaalash](https://www.kaggle.com/ahmedbaalash)  
+
 ---
 
 ### ✍️ Random Dev Quote
